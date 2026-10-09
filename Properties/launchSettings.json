@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DesktopFolders (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DesktopFolders (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
